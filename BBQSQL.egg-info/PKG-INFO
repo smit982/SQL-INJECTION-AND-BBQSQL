@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: BBQSQL
+Version: 1.2
+Summary: Rapid Blind SQL Injection Exploitation Tool
+Home-page: http://github.com/neohapsis/bbqsql
+Author: Ben Toews (mastahyeti)
+Author-email: mastahyeti@gmail.com
+License: BSD
+License-File: LICENSE.md
